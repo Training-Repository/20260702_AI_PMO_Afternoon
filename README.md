@@ -1,8 +1,12 @@
 # 20260702_AI_PMO_Afternoon
 
 ---
+```
 Based on the analysis report generated, create the outline for a powerpoint presentation that will be used in an executive meeting. Suggest appropriate infographics and data-visualisations for each slide.
+```
 ---
+
+```
 Slide 1 — Executive Audit Review
 Title
 Technology Transformation Portfolio Health Review
@@ -17,31 +21,9 @@ Executive intervention recommendations
 Visual
 Executive Scorecard (4 KPIs)
 Use four large KPI tiles:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+---
+```
 KPIValueTotal Programmes12Red Programmes3Deteriorating Programmes5Portfolio Forecast Overrun₹13.4 Cr
 Infographic
 Executive Dashboard Cards
@@ -89,41 +71,9 @@ Executive Question
 "Which programmes look healthier than they actually are?"
 Content
 Highlight:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+---
+```
 ProgrammeReported StatusAudit ViewAI-002GreenWatchCX-011AmberHigh RiskAI-003AmberHigh RiskLND-001AmberWatchDAT-012RedCritical
 Based on unresolved dependencies, regulatory risks and resource concentration. [Bajaj_Fins...v_PMO_Demo | Excel]
 Visual
@@ -378,41 +328,9 @@ Decision 5
 Strengthen programme change control for DLO-009.
 Visual
 Executive Decision Board
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+---
+```
 PriorityDecisionOwnerP1OCI RecoveryCTOP1DAT RebaselineSteering CommitteeP1Key Resource MitigationPMOP2Dependency GovernancePMO HeadP2Scope GovernanceBusiness Sponsors
 
 Recommended Overall Design Theme
@@ -437,3 +355,5 @@ Executive Scorecards
 Key Message Flow
 Health → Hidden Risk → Financial Exposure → Dependency Blast Radius → Executive Decisions
 This creates a board-level story rather than a PMO status report and is typically much more effective with audit panels and steering committees.---
+```
+---
