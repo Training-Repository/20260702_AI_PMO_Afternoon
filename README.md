@@ -1,5 +1,24 @@
 # 20260702_AI_PMO_Afternoon
+## Workflow
+### Inspect
+* What is in the file?
+* What various analysis can we perform on this?
+* Identify the top 3 analysis that are most relevant an revealing about the status of programs.
 
+### Plan
+*
+```
+Act as a Microsoft Copilot prompt expert.
+
+I am a project manager (PMO) at Bajaj Finance Limited (large Indian NBFC).
+I need to perform the 3 analysis identified above.
+My audience is audit panel, including executives.
+
+Write me a detailed, structured Copilot prompt I can use to complete this task.
+The prompt should specify: role, task, context, output format, and tone.
+```
+### Execute
+* Use the generated prompt in a new conversation and reference the original data file (excel)
 ---
 ```
 Based on the analysis report generated, create the outline for a powerpoint presentation that will be used in an executive meeting. Suggest appropriate infographics and data-visualisations for each slide.
